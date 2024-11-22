@@ -1,13 +1,10 @@
 site_name: 算法笔记
-site_url: https://icstorm.top/algorithm
+site_url: https://rzyn2020.github.top/algorithm
 site_author: Ekstasis
 site_description: >-
   算法笔记
 repo_name: Algorithm
 repo_url: https://github.com/RZYN2020/Algorithm.git
-
-docs_dir: src
-site_dir: docs
 
 theme:
   name: material
@@ -88,3 +85,4 @@ nav:
   - leetcode-contest-355: "leetcode-contest-355"
   - haskell-2023.10.05: "haskell-learning"
   - leetcode-2024-jan: "leetcode-2024-jan"
+  - 力扣百题斩(12%): "leetcode-hot100-12"
