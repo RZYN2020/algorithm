@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://icstorm.top/algorithm/</loc>
-         <lastmod>2024-01-15</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://rzyn2020.github.top/algorithm/</loc>
+         <lastmod>2024-11-22</lastmod>
     </url>
     <url>
-         <loc>https://icstorm.top/algorithm/haskell-learning/</loc>
-         <lastmod>2024-01-15</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://rzyn2020.github.top/algorithm/Python%E5%88%B7%E9%A2%98%E6%8A%80%E5%B7%A7/</loc>
+         <lastmod>2024-11-22</lastmod>
     </url>
     <url>
-         <loc>https://icstorm.top/algorithm/leetcode-2024-jan/</loc>
-         <lastmod>2024-01-15</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://rzyn2020.github.top/algorithm/haskell-learning/</loc>
+         <lastmod>2024-11-22</lastmod>
     </url>
     <url>
-         <loc>https://icstorm.top/algorithm/leetcode-contest-355/</loc>
-         <lastmod>2024-01-15</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://rzyn2020.github.top/algorithm/leetcode-2024-feb/</loc>
+         <lastmod>2024-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://rzyn2020.github.top/algorithm/leetcode-2024-jan/</loc>
+         <lastmod>2024-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://rzyn2020.github.top/algorithm/leetcode-contest-355/</loc>
+         <lastmod>2024-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://rzyn2020.github.top/algorithm/leetcode-hot100-12/</loc>
+         <lastmod>2024-11-22</lastmod>
     </url>
 </urlset>
