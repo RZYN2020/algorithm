@@ -4,7 +4,7 @@ site_author: Ekstasis
 site_description: >-
   算法笔记
 repo_name: Algorithm
-repo_url: https://github.com/RZYN2020/Algorithm.git
+repo_url: https://github.com/RZYN2020/algorithm.git
 
 theme:
   name: material
@@ -86,3 +86,4 @@ nav:
   - haskell-2023.10.05: "haskell-learning"
   - leetcode-2024-jan: "leetcode-2024-jan"
   - 力扣百题斩(12%): "leetcode-hot100-12"
+  - 力扣百题斩(25%): "leetcode-hot100-25"
