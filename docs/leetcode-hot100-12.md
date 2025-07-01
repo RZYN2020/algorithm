@@ -359,6 +359,10 @@ class Solution:
 
 当然有，但前提是你知道 api 
 
+> 可以将自定义元素和一个可比较的键（如数字）组合成元组，然后将元组添加到堆中。`heapq` 模块会首先比较元组的第一个元素。
+>
+> 或者 可以在自定义类中实现 `__lt__`（小于）方法，`heapq` 模块会使用这个方法来进行元素之间的比较。
+
 ```python
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
@@ -397,6 +401,7 @@ class Solution:
             while q and nums[i] >= nums[q[-1]]:
                 q.pop()
             q.append(i)
+        # 填充初始窗口
 
         ans = [nums[q[0]]]
         for i in range(k, n):

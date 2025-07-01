@@ -1,6 +1,6 @@
 > 2024.12.1
 
-# 动态规划基本知识
+## 动态规划基本知识
 
 有趣的方法：
 
@@ -12,6 +12,7 @@
 2. [ntnu](https://web.ntnu.edu.tw/~algo/DynamicProgramming.html)
 3. [hello算法](https://www.hello-algo.com/chapter_dynamic_programming/)
 4. [oi wiki](https://oi-wiki.org/dp/)
+5. [背包问题](https://leetcode.cn/problems/coin-change/solutions/778891/yi-pian-wen-zhang-chi-tou-bei-bao-wen-ti-sq9n)
 
 dynamic programming
 = divide-and-conquer method + memoization
@@ -33,9 +34,7 @@ dynamic programming
 
 > 為什麼分割問題之後，就容易計算答案呢？因為分割問題時，同時也分類了這個問題的所有可能答案。分類使得答案的規律變得單純，於是更容易求得答案。
 
-# Leetcode 题目
-
-## 动态规划
+### 动态规划
 
 ### [70. 爬楼梯](https://leetcode.cn/problems/climbing-stairs/)
 
@@ -147,7 +146,7 @@ class Solution:
 
 ### [322. 零钱兑换](https://leetcode.cn/problems/coin-change/)
 
-经典找硬币
+经典找硬币 背包问题
 
 ```python
 class Solution:
@@ -246,6 +245,8 @@ class Solution:
 ```
 
 但是也有一个贪心做法：使得每次加上的数尽可能小...` O(n log n)`
+
+https://writings.sh/post/longest-increasing-subsequence-revisited
 
 不过一开始并没有想到贪心策略...
 
